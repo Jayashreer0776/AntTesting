@@ -10,7 +10,7 @@ public class AppTest extends TestCase {
 	
 	 public void test3() {
         App app = new App();
-		//assertEqual(4,app.add(2,2));
+		assertEqual(4,app.add(2,2));
     }
 	
 }
